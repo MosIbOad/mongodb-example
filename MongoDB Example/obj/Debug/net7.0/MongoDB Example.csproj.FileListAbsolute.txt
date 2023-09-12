@@ -1,0 +1,30 @@
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\MongoDB Example.exe
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\MongoDB Example.deps.json
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\MongoDB Example.runtimeconfig.json
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\MongoDB Example.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\MongoDB Example.pdb
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\Snappier.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\MongoDB Example.csproj.AssemblyReference.cache
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\MongoDB Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\MongoDB Example.AssemblyInfoInputs.cache
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\MongoDB Example.AssemblyInfo.cs
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\MongoDB Example.csproj.CoreCompileInputs.cache
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\MongoDB Example.csproj.CopyComplete
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\MongoDB Example.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\refint\MongoDB Example.dll
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\MongoDB Example.pdb
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\MongoDB Example.genruntimeconfig.cache
+C:\Users\Berkan\source\repos\MongoDB Example\MongoDB Example\obj\Debug\net7.0\ref\MongoDB Example.dll
